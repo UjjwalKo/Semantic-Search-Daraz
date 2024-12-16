@@ -21,7 +21,7 @@ To install the required dependencies, run:
 pip install -r requirements.txt
 ```
 
-Sample `requirements.txt`:
+`requirements.txt`:
 ```
 asgiref==3.8.1
 certifi==2024.12.14
