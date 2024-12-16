@@ -14,6 +14,8 @@ Daraz Semantic Search is a Django-based web application that implements semantic
 
 ---
 
+### For Data Cleaning please see .ipynb file separately
+
 ## Requirements
 
 To install the required dependencies, run:
@@ -92,23 +94,6 @@ Ensure the file `embeddings/product_data_embeddings.joblib` is available in the 
 
 ---
 
-## Project Structure
-
-```plaintext
-Daraz_Semantic/
-    manage.py                # Django management script
-    Daraz_Semantic/          # Project directory
-        settings.py          # Django settings
-        urls.py              # Project URL configuration
-    search_app/              # Main application
-        views.py             # Core semantic search logic
-        urls.py              # Application URL configuration
-        templates/           # HTML templates
-            index/home.html  # Search interface template
-    embeddings/              # Precomputed embeddings directory
-        product_data_embeddings.joblib
-    product_semantic.ipynb   # Jupyter notebook for analysis
-```
 
 ---
 
