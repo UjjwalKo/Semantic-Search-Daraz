@@ -1,6 +1,6 @@
 # Daraz Semantic Search
 
-Daraz Semantic Search is a Django-based web application that implements semantic search for e-commerce products. The application uses SentenceTransformers and precomputed embeddings to deliver highly relevant search results. It includes semantic similarity models, efficient search mechanisms, and an intuitive interface.
+Daraz Semantic Search is a Django-based web application that implements semantic search for Daraz e-commerce laptop products. The application uses SentenceTransformers and precomputed embeddings to deliver highly relevant search results. It includes semantic similarity models, efficient search mechanisms, and an intuitive interface.
 
 ---
 
